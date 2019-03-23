@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java-design-pattern</artifactId>
+        <groupId>cn.com.open</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>design-pattern-2019</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>pattern-factory-001</module>
+        <module>pattern-prototype-002</module>
+        <module>pattern-singleton-003</module>
+        <module>pattern-strategy-005</module>
+        <module>pattern-delegate-006</module>
+        <module>pattern-adapter-007</module>
+        <module>pattern-template-008</module>
+        <module>pattern-decorator-009</module>
+        <module>pattern-observer-010</module>
+        <module>pattern-proxy-004</module>
+    </modules>
+
+
+</project>
